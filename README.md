@@ -6,7 +6,7 @@ This repository holds the data and code required to reproduce results presented 
 mechanical properties of polycrystals"*.
 
 ## Setup
-Install dependencies.
+Install dependencies. Please note that installing [PyTorch](https://pytorch.org/get-started/locally/) and [PyTorchGeometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) will be more involved and custom to your machine/GPU. See links provided.
 ```bash
 pip install -r requirements.txt
 ```
