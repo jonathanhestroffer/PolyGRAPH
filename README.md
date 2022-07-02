@@ -1,6 +1,6 @@
 # Graph neural networks for efficient learning of mechanical properties of polycrystals
 
-<img src="title.PNG" width=100% height=100%>
+<img src="title.png" width=100% height=100%>
 
 This repository holds the data and code required to reproduce results presented in *"Graph neural networks for efficient learning of
 mechanical properties of polycrystals"*.
