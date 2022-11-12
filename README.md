@@ -5,6 +5,20 @@
 This repository holds the data and code required to reproduce results presented in *"Graph neural networks for efficient learning of
 mechanical properties of polycrystals"*.
 
+```
+@article{HESTROFFER2023,
+title = {Graph neural networks for efficient learning of mechanical properties of polycrystals},
+journal = {Computational Materials Science},
+volume = {217},
+pages = {111894},
+year = {2023},
+issn = {0927-0256},
+doi = {https://doi.org/10.1016/j.commatsci.2022.111894},
+url = {https://www.sciencedirect.com/science/article/pii/S092702562200605X},
+author = {Jonathan M. Hestroffer and Marie-Agathe Charpagne and Marat I. Latypov and Irene J. Beyerlein},
+}
+```
+
 ## Setup
 Install dependencies. Please note that installing [PyTorch](https://pytorch.org/get-started/locally/) and [PyTorchGeometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) will be more involved and custom to your machine/GPU. See links provided.
 ```bash
